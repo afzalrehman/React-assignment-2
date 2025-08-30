@@ -3,6 +3,7 @@ import type { ProjectCardProps } from "../../type/Type";
 import "../../styles/ProjectCard.css";
 
 const ProjectCard = ({ title, image, github, live }: ProjectCardProps) => {
+  console.log("Rendering project card:", image);
   return (
     <div className="card">
       {image ? (
