@@ -6,20 +6,20 @@ const Home = () => {
     {
       title: "Todo App",
       image: "todo.png",
-      github: "https://github.com/example/todo",
-      live: "https://example.com/todo",
+      github: "https://github.com/afzalrehman/todo-app",
+      live: "https://todo-app-flax-six-79.vercel.app/",
     },
     {
       title: "Quiz App",
-      image: "",
-      github: "https://github.com/example/quiz",
-      live: "https://example.com/quiz",
+      image: "quiz.png",
+      github: "https://github.com/afzalrehman/Quiz",
+      live: "https://quiz-eta-beige-90.vercel.app/",
     },
     {
       title: "Multi-Step Form",
-      image: "form.png",
-      github: "https://github.com/example/form",
-      live: "https://example.com/form",
+      image: "stepper.png",
+      github: "https://github.com/afzalrehman/Stepper",
+      live: "https://stepper-omega.vercel.app/",
     },
   ];
 
